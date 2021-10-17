@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main() {
-	int x = 10;
+	int x = 20;
 	int *y = &x;
 	printf("The value held by x: (%%d, x) =  %d\n", x);
 	printf("The address of location named x: (%%p, &x) = %p\n", &x);
